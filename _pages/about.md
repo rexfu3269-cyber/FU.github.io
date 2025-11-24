@@ -17,11 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a student major in Science in Computing and a developer who has passion about solving problems. Currently seeking summer internship opportunities to grow my skills and contribute to innovative projects.
-Strongly interested in web development, builds responsive web applications, design scalable systems.
-I'm currently in Macao Polytechnic University (MPU), doing my studies and trying to achieve my goal in the future.
-
-
+I'm a student major in Science in Computing and a developer who has passion about solving problems. Currently seeking summer internship opportunities to grow my skills and contribute to innovative projects. Strongly interested in web development, builds responsive web applications, design scalable systems. I'm currently in Macao Polytechnic University (MPU), doing my studies and trying to achieve my goal in the future.
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
